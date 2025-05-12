@@ -1,0 +1,3 @@
+[submodule "opera-sfc"]
+	path = opera-sfc
+	url = ssh://git@gitlab.venidium.com:65022/whizgrid-tech/torus/opera-sfc.git
